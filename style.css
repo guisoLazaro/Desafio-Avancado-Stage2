@@ -1,5 +1,6 @@
 *{
   margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
@@ -24,6 +25,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 100px;
 }
 a {
   font-family: 'JetBrains Mono', monospace;
@@ -42,7 +44,6 @@ main {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 100px;
 }
 section{
   text-align: center;
